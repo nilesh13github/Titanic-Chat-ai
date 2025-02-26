@@ -10,7 +10,7 @@ annotated-types==0.7.0
 antiorm==1.2.1
 anyascii==0.3.2
 anyio==4.8.0
-apturl==0.5.2
+apturl
 asttokens==3.0.0
 astunparse==1.6.3
 async-timeout==4.0.3
