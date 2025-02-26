@@ -67,7 +67,7 @@ diffusers==0.32.2
 dill==0.3.8
 distlib==0.3.4
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
+distro-info
 dnnlib @ https://github.com/podgorskiy/dnnlib/releases/download/0.0.1/dnnlib-0.0.1-py3-none-any.whl
 dnntools==0.1.8
 dnspython==2.6.1
