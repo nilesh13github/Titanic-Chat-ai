@@ -5,7 +5,7 @@ from query import sqlite_query
 from query_fixer import fix_sql_spacing
 from graph import detect_graph_type, graph_generator
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+#add huggingface acess token 
 
 
 chat_model = HuggingFaceEndpoint(
