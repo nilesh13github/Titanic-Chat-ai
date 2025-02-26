@@ -57,7 +57,6 @@ db==0.1.1
 db-sqlite3==0.0.1
 dbus-python==1.2.18
 decorator==5.1.1
-defer==1.0.6
 diffusers==0.32.2
 dill==0.3.8
 distlib==0.3.4
