@@ -47,7 +47,6 @@ confection==0.1.5
 contourpy==1.2.1
 coqpit==0.0.17
 cryptography==3.4.8
-cupshelpers==1.0
 cycler==0.12.1
 cymem==2.0.8
 Cython==3.0.11
